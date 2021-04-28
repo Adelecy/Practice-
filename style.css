@@ -1,0 +1,35 @@
+body {
+        background-color: #E0AAFF
+}
+h1 {
+        color: #10002B;
+        font-family: 'Dosis', sans-serif;
+        font-weight: bolder;
+}
+h4 {
+        color: #240046;
+        font-family: 'Dosis', sans-serif;
+}
+p {
+        color: #3C096C;
+        font-family: 'Dosis', sans-serif;
+}
+li {
+        color: #3C096C;
+        font-family: 'Dosis', sans-serif;
+}
+img {
+        border-color: #5A189A;
+        border-width: thick;
+        border-style: dotted;
+}
+iframe {
+        border-color: #5A189A;
+        border-width: thick;
+        border-style: dotted;
+}
+a {
+        color: #9D4EDD;
+        font-family: 'Dosis', sans-serif;
+        text-align: center;
+}
